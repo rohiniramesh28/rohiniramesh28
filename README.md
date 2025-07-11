@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rohini Ramesh</h1>
 <h3 align="center">AI & Voice Assistant Developer | Python Programmer | Tech Explorer from India</h3>
 
-📬 <strong>Reach me at:</strong> rohini.yours@gmail.com  
-📍 Tamil Nadu, India | 📞 +91 XXXXXXXXXX *(optional)*
+📬 <strong>Reach me at:</strong> rohiniramesh2005@gmail.com  
+📍 Tamil Nadu, India | 
 
 ---
 
