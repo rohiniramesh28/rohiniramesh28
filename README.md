@@ -2,7 +2,7 @@
 <h3 align="center">AI & Voice Assistant Developer | Python Programmer | Tech Explorer from India</h3>
 
 📬 <strong>Reach me at:</strong> rohiniramesh2005@gmail.com  
-📍 Tamil Nadu, India | 
+📍 Tamil Nadu, India 
 
 ---
 
