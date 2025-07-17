@@ -12,9 +12,9 @@ I'm a dedicated final-year B.Tech student specializing in Artificial Intelligenc
 
 🔍 Currently open for internships/full-time roles in AI/ML, Data Science, or Software Development.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800"/>
-</p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 ## 🌐 Socials:
