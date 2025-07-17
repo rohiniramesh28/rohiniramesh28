@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
- <img src="GIF_LINK_HERE" alt="AI Developer GIF" width="800" /> alt="AI Developer GIF" width="800" />
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/machine-learning-libraries.gif" width="250px">
 </p>
 
 # 👋 Hi, I'm Rohini Ramesh
