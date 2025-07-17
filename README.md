@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/machine-learning-libraries.gif" width="250px">
+  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" alt="AI GIF" width="400"/>
 </p>
+
 
 # 👋 Hi, I'm Rohini Ramesh
 🚀 Passionate Tech Enthusiast | AI & Data Science Explorer | Full Stack Developer<br>🎓 Engineering Student focused on AI, Machine Learning, and Web Development. Always curious to learn and build meaningful tech projects.<br><br>💡 I love working on:<br><br>🤖 AI Projects – Chatbots, NLP, Computer Vision<br><br>🌐 Web Development – Frontend, Backend, Full Stack<br><br>📊 Data Science – Data Analysis, Visualization<br><br>🔊 Voice Assistants – Real-time AI Assistants using LLMs
