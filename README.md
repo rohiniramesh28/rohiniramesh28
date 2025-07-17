@@ -3,6 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7D51D&width=435&lines=Hi%2C+I'm+Rohini+Ramesh!;Tech+Enthusiast+%7C+AI+Explorer+%7C+Developer" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="400"/>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" alt="AI GIF" width="600"/>
