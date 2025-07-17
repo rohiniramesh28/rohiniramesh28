@@ -3,18 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7D51D&width=435&lines=Hi%2C+I'm+Rohini+Ramesh!;Tech+Enthusiast+%7C+AI+Explorer+%7C+Developer" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="AI Brain GIF" width="400"/>
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/l41lUeeJ2k6k1fTzq/giphy.gif" alt="Loading Tech GIF" width="400"/>
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Programmer Working GIF" width="400"/>
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Neon Coding GIF" width="400"/>
-</p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" alt="AI GIF" width="400"/>
 </p>
