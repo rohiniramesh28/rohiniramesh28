@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Data Science GIF" width="400"/>
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" alt="Matrix Coding GIF" width="400"/>
 </p>
+
 
 
 
