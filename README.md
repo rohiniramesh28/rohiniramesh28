@@ -3,10 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7D51D&width=435&lines=Hi%2C+I'm+Rohini+Ramesh!;Tech+Enthusiast+%7C+AI+Explorer+%7C+Developer" alt="Typing SVG" />
 </p>
 
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/machine-learning-libraries.gif" width="250px">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Developer GIF" width="400" />
 </p>
+
 
 🚀 **Passionate Tech Enthusiast | AI & Data Science Explorer | Full Stack Developer**  
 🎓 **Engineering Student** focused on AI, Machine Learning, and Web Development. Always curious to learn and build meaningful tech projects.
