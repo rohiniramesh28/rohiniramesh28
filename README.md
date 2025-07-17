@@ -4,7 +4,9 @@
 </p>
 
 
-# 👋 Hi, I'm Rohini Ramesh
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/machine-learning-libraries.gif" width="250px">
+</p>
 
 🚀 **Passionate Tech Enthusiast | AI & Data Science Explorer | Full Stack Developer**  
 🎓 **Engineering Student** focused on AI, Machine Learning, and Web Development. Always curious to learn and build meaningful tech projects.
