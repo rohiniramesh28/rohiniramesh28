@@ -8,10 +8,10 @@
 </p>
 
 
+I'm a dedicated final-year B.Tech student specializing in Artificial Intelligence and Data Science with a strong foundation in Python, Machine Learning, and Web Development. I am passionate about solving real-world problems through technology and continuously learning emerging trends in AI and data analytics.  
 
+🔍 Currently open for internships/full-time roles in AI/ML, Data Science, or Software Development.
 
-
-🚀 Passionate Tech Enthusiast | AI & Data Science Explorer | Full Stack Developer<br>🎓 Engineering Student focused on AI, Machine Learning, and Web Development. Always curious to learn and build meaningful tech projects.<br><br>💡 I love working on:<br><br>🤖 AI Projects – Chatbots, NLP, Computer Vision<br><br>🌐 Web Development – Frontend, Backend, Full Stack<br><br>📊 Data Science – Data Analysis, Visualization<br><br>🔊 Voice Assistants – Real-time AI Assistants using LLMs
 
 
 ## 🌐 Socials:
