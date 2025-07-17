@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Developer GIF" width="800" />
+ <img src="GIF_LINK_HERE" alt="AI Developer GIF" width="800" /> alt="AI Developer GIF" width="800" />
 </p>
 
 # 👋 Hi, I'm Rohini Ramesh
