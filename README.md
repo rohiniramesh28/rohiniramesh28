@@ -4,19 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l41lUeeJ2k6k1fTzq/giphy.gif" alt="Loading Tech GIF" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="AI Brain GIF" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding GIF" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" alt="AI GIF" width="600"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="AI Brain GIF" width="500"/>
 </p>
 
 
