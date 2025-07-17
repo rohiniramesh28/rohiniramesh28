@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Rohini Ramesh!<br>🚀 Passionate Tech Enthusiast | AI & Data Science Explorer | Full Stack Developer<br>🎓 Engineering Student focused on AI, Machine Learning, and Web Development. Always curious to learn and build meaningful tech projects.<br><br>💡 I love working on:<br><br>🤖 AI Projects – Chatbots, NLP, Computer Vision<br><br>🌐 Web Development – Frontend, Backend, Full Stack<br><br>📊 Data Science – Data Analysis, Visualization<br><br>🔊 Voice Assistants – Real-time AI Assistants using LLMs
+# 👋 Hi, I'm Rohini Ramesh
+🚀 Passionate Tech Enthusiast | AI & Data Science Explorer | Full Stack Developer<br>🎓 Engineering Student focused on AI, Machine Learning, and Web Development. Always curious to learn and build meaningful tech projects.<br><br>💡 I love working on:<br><br>🤖 AI Projects – Chatbots, NLP, Computer Vision<br><br>🌐 Web Development – Frontend, Backend, Full Stack<br><br>📊 Data Science – Data Analysis, Visualization<br><br>🔊 Voice Assistants – Real-time AI Assistants using LLMs
 
 
 ## 🌐 Socials:
