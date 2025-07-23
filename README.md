@@ -8,7 +8,7 @@
 </p>
 
 
-I'm a dedicated final-year B.Tech student specializing in Artificial Intelligence and Data Science with a strong foundation in Python, Machine Learning, and Web Development. I am passionate about solving real-world problems through technology and continuously learning emerging trends in AI and data analytics.  
+I'm Rohini R, a dedicated final-year B.Tech student specializing in Artificial Intelligence and Data Science with a strong foundation in Python, Machine Learning, and Web Development. I am passionate about solving real-world problems through technology and continuously learning emerging trends in AI and data analytics.  
 
 🔍 Currently open for internships/full-time roles in AI/ML, Data Science, or Software Development.
 
@@ -24,10 +24,12 @@ I'm a dedicated final-year B.Tech student specializing in Artificial Intelligenc
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" alt="Snake animation" height="1000" alt="Snake animation" width="1000"/>
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rohiniramesh28&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rohiniramesh28&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohiniramesh28&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=rohiniramesh28&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=rohiniramesh28&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohiniramesh28&theme=transparent&hide_border=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rohiniramesh28&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
@@ -35,4 +37,4 @@ I'm a dedicated final-year B.Tech student specializing in Artificial Intelligenc
 ---
 [![](https://visitcount.itsvg.in/api?id=rohiniramesh28&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
