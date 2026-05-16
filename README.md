@@ -8,7 +8,8 @@
 </p>
 
 
-I'm Rohini R, a dedicated final-year B.Tech student specializing in Artificial Intelligence and Data Science with a strong foundation in Python, Machine Learning, and Web Development. I am passionate about solving real-world problems through technology and continuously learning emerging trends in AI and data analytics.  
+I'm Rohini R, a dedicated B.Tech graduate specializing in Artificial Intelligence and Data Science with a strong foundation in Python, Machine Learning, and Web Development. I am passionate about solving real-world problems through technology and continuously learning emerging trends in AI and data analytics.
+  
 
 🔍 Currently open for internships/full-time roles in AI/ML, Data Science, or Software Development.
 
